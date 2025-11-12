@@ -1,6 +1,6 @@
 # Arcabee para Revit
 
-[![Versão Mais Recente](https://github.com/GabrielCezario1/arcabee-versions/releases/latest)](https://github.com/GabrielCezario1/arcabee-versions/releases/latest)
+[![Versão Mais Recente](https://img.shields.io/github/v/release/GabrielCezario1/arcabee-versions)](https://github.com/GabrielCezario1/arcabee-versions/releases/latest)
 
 O Arcabee é um plugin para Autodesk Revit que auxilia o usuário do revit a usar os materiais e objetos de forma simples sem sair do revit.
 
